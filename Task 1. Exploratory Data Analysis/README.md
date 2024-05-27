@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the task directory:
    ```
-   cd angelcpizarro/Task 1. Exploratory Data Analysis
+   cd "angelcpizarro/Task 1. Exploratory Data Analysis"
    ```
 3. Create and activate a virtual environment (optional but recommended):
 
