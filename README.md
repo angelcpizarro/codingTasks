@@ -4,11 +4,11 @@ This repository serves as an index for some of the relevant coding tasks I have 
 
 ## Table of Contents
 
-1. [Task 1: Exploratory Data Analysis](#task-1-exploratory-data-analysis)
+1. [Task 1. Exploratory Data Analysis](#Task-1.-Exploratory-Data-Analysis)
 
 ---
 
-## Task 1: Exploratory Data Analysis
+## Task 1. Exploratory Data Analysis
 
 **Description:**  
 This project involves performing an exploratory data analysis (EDA) on the Titanic dataset to uncover anomalies within the data, relationships between features, and insights. It includes data cleaning, visualization, and summary statistics to better understand the data.
