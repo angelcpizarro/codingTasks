@@ -29,11 +29,11 @@ To run this project locally, follow these steps:
    
    ```
    python3 -m venv env
-   source env/bin/activate  # On Windows, use `env\Scripts\activate`
+   source env/bin/activate  # On Windows, use 'env\Scripts\activate'
    ```
 5. Install the required packages:
    ```
-   pip install -r requirements.txt`
+   pip install -r requirements.txt
    ```
    
 ## Usage
