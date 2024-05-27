@@ -8,8 +8,6 @@ This task involves performing an exploratory data analysis (EDA) on the Titanic 
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-   - [Running the Analysis](#running-the-analysis)
-   - [Screenshots](#screenshots)
 3. [Credits](#credits)
 4. [Contact](#contact)
 
