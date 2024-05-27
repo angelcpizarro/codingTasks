@@ -4,7 +4,7 @@ This repository serves as an index for some of the relevant coding tasks I have 
 
 ## Table of Contents
 
-1. [Task 1. Exploratory Data Analysis](#Task-1.-Exploratory-Data-Analysis)
+1. [Task 1. Exploratory Data Analysis](#task-1-exploratory-data-analysis)
 
 ---
 
@@ -21,7 +21,7 @@ This project involves performing an exploratory data analysis (EDA) on the Titan
 - Seaborn
 
 **Link:**  
-[Go to Project 1 Directory](./Task-1.-Exploratory-Data-Analysis)
+[Go to Project 1 Directory](./Task%201.%20Exploratory%20Data%20Analysis)
 
 ---
 
