@@ -24,7 +24,8 @@ To run this project locally, follow these steps:
    cd angelcpizarro/Task-1:-Exploratory-Data-Analysis
    ```
 3. Create and activate a virtual environment (optional but recommended):
-   *A virtual environment is a self-contained directory that contains a Python installation and a set of packages. It helps manage dependencies for different projects separately, ensuring that the packages and versions used in one project do not interfere with those in another.*
+
+*A virtual environment is a self-contained directory that contains a Python installation and a set of packages. It helps manage dependencies for different projects separately, ensuring that the packages and versions used in one project do not interfere with those in another.*
    ```
    python3 -m venv env
    source env/bin/activate  # On Windows, use `env\Scripts\activate`
